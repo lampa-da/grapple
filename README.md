@@ -1,15 +1,15 @@
-## Grapple - Website for challenges lovers.
+# Grapple - Website for challenges lovers.
 
-# Deployed app
+## Deployed app
 https://grapple-fsa.herokuapp.com/
 
-# Description:
+## Description:
 Grapple motivates you to compete in daily challenges that improve your overall well being. You can track your daily progress against your friends and see how you compare over time. You can also challenge a friend to compete to keep each other honest. 
 
-# Tech Stack: 
+## Tech Stack: 
 React.js, Redux.js, Node.js, Express.js, PostgreSQL, Sequelize ORM, JWT, Bcrypt, Firebase, Axios
 
-# Features:
+## Features:
 - Strava API integration
 - OAuth with Google and Facebook
 - Notifications with Engagespot React Component
